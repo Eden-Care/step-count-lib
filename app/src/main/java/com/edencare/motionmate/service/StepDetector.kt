@@ -2,7 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.service
+package com.edencare.motionmate.service
 
 import kotlin.math.min
 import kotlin.math.sqrt

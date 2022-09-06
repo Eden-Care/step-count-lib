@@ -2,7 +2,7 @@
 <!--
   ~ SPDX-License-Identifier: GPL-3.0-only
   -->
-<com.tiefensuche.motionmate.ui.CalendarViewScrollable
+<com.edencare.motionmate.ui.CalendarViewScrollable
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/calendar"
     android:layout_width="match_parent"

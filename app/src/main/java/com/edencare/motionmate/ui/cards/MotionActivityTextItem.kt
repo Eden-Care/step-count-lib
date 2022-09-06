@@ -2,11 +2,11 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.ui.cards
+package com.edencare.motionmate.ui.cards
 
 import android.content.Context
 import android.view.View
-import com.tiefensuche.motionmate.R
+import com.edencare.motionmate.R
 
 /**
  * Further specialized [TextItem] that shows step information as activity that can be

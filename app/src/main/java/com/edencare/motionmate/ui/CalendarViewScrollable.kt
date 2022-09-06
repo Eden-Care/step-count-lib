@@ -2,7 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.ui
+package com.edencare.motionmate.ui
 
 import android.content.Context
 import android.util.AttributeSet

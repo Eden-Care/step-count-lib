@@ -2,7 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.service
+package com.edencare.motionmate.service
 
 import android.Manifest
 import android.app.NotificationChannel
@@ -29,10 +29,10 @@ import android.util.Log
 import android.util.SparseArray
 import android.widget.Toast
 import androidx.core.content.ContextCompat
-import com.tiefensuche.motionmate.R
-import com.tiefensuche.motionmate.ui.MainActivity
-import com.tiefensuche.motionmate.util.Database
-import com.tiefensuche.motionmate.util.Util
+import com.edencare.motionmate.R
+import com.edencare.motionmate.ui.MainActivity
+import com.edencare.motionmate.util.Database
+import com.edencare.motionmate.util.Util
 import java.util.*
 
 /**

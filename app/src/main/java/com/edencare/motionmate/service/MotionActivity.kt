@@ -2,7 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.service
+package com.edencare.motionmate.service
 
 /**
  * This class represents a motion activity started by the user. It counts all the steps from the time

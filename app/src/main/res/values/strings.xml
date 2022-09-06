@@ -3,7 +3,7 @@
   -->
 
 <resources>
-    <string name="app_name" translatable="false">MotionMate</string>
+    <string name="app_name" translatable="false">Eden Care</string>
     <string name="steps" translatable="false">steps</string>
     <string name="meters_today" translatable="false">%.2f km</string>
     <plurals name="steps_text">

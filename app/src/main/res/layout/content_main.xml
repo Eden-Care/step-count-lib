@@ -99,7 +99,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="18sp" />
 
-                <com.tiefensuche.motionmate.ui.Chart
+                <com.edencare.motionmate.ui.Chart
                     android:id="@+id/chart"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />

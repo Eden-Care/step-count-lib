@@ -2,7 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.ui
+package com.edencare.motionmate.ui
 
 import android.Manifest
 import android.content.Intent
@@ -22,13 +22,13 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.tiefensuche.motionmate.R
-import com.tiefensuche.motionmate.service.MotionService
-import com.tiefensuche.motionmate.ui.cards.MotionActivityTextItem
-import com.tiefensuche.motionmate.ui.cards.MotionStatisticsTextItem
-import com.tiefensuche.motionmate.ui.cards.MotionTextItem
-import com.tiefensuche.motionmate.util.Database
-import com.tiefensuche.motionmate.util.Util
+import com.edencare.motionmate.R
+import com.edencare.motionmate.service.MotionService
+import com.edencare.motionmate.ui.cards.MotionActivityTextItem
+import com.edencare.motionmate.ui.cards.MotionStatisticsTextItem
+import com.edencare.motionmate.ui.cards.MotionTextItem
+import com.edencare.motionmate.util.Database
+import com.edencare.motionmate.util.Util
 import java.util.*
 import kotlin.collections.ArrayList
 

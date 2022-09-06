@@ -2,7 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-only
  */
 
-package com.tiefensuche.motionmate.ui
+package com.edencare.motionmate.ui
 
 import android.content.Context
 import android.util.AttributeSet
@@ -13,7 +13,7 @@ import com.github.mikephil.charting.data.BarDataSet
 import com.github.mikephil.charting.data.BarEntry
 import com.github.mikephil.charting.formatter.ValueFormatter
 import com.github.mikephil.charting.utils.ColorTemplate
-import com.tiefensuche.motionmate.util.Database
+import com.edencare.motionmate.util.Database
 import java.util.*
 
 /**

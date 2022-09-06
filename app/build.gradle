@@ -3,7 +3,7 @@
  */
 
 plugins {
-    id 'com.android.application'
+    id 'com.android.library'
     id 'kotlin-android'
 }
 
@@ -11,7 +11,7 @@ android {
     compileSdkVersion 30
     testOptions.unitTests.includeAndroidResources = true
     defaultConfig {
-        applicationId "com.tiefensuche.motionmate"
+//        applicationId "com.tiefensuche.motionmate"
         minSdkVersion 14
         targetSdkVersion 30
         versionCode 9
