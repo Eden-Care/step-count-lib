@@ -111,7 +111,7 @@ internal class MainActivity : AppCompatActivity() {
         setDataForWeek(Util.calendar)
 
         // Add some cards with statistics
-        setupCards()
+//        setupCards()
 
         // Start the motion service
         checkPermission()
